@@ -1,5 +1,10 @@
 <img src="/header.png"/>
 
+# 🤓 What I'm interested in right now:
+1. Encryption
+2. Networks
+3. Freedom
+
 # 📈 Statictics
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=meynrun&theme=blueberry) 
 
