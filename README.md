@@ -30,6 +30,3 @@
 # Social:
 ![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 ![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?style=for-the-badge&logo=Reddit&logoColor=white)
-
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Cascadia+Mono&size=56&duration=3000&pause=1000&width=435&height=75&lines=Python;Network;Encryption;Freedom)](https://git.io/typing-svg)
